@@ -1,6 +1,6 @@
 # `print("Hello, World!")` 👋
 <img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" width="400">
-Hi there! I'm Stefan, a passionate student at the Faculty of Computer Science and Engineering. Welcome to my GitHub profile, where you can explore my journey through code and creativity!
+Hi there! I'm Stefan, a passionate student at the FCSE. Welcome to my GitHub profile, where you can explore my journey through code and creativity!
 
 ## 📚 About Me
 
