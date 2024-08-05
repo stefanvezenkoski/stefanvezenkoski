@@ -40,7 +40,7 @@
 </div>
 
 <hr>
-## 📫 Connect with Me
+ 📫 Connect with Me
 
 - 📧 **Email**: [vezenkostefan31@gmail.com](mailto:vezenkostefan31@gmail.com)
 
