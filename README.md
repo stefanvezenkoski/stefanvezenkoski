@@ -1,5 +1,5 @@
 # `print("Hello, World!")` 👋 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35">
-<img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" width="110">
+<img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" width="1100">
 Hi there! I'm Stefan, a passionate student at the FCSE. Welcome to my GitHub profile, where you can explore my journey through code and creativity!
 
 ## 📚 About Me
