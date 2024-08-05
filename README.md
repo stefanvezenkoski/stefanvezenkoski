@@ -45,7 +45,6 @@
 - 📧 **Email**: [vezenkostefan31@gmail.com](mailto:vezenkostefan31@gmail.com)
 
   <hr>
-  <hr>
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=13&center=true&vCenter=true&width=500&height=70&duration=10000&lines=Thank+you+for+dropping+by+my+GitHub+profile!+Let's+code+the+future+together!+%F0%9F%9A%80" /><img alt="Coder GIF" height=80 width=130 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="45"/>
