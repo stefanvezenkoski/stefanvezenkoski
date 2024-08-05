@@ -3,11 +3,12 @@
 </h1>
 
 <h3 align="center">
-  <img src="https://path_to_your_hosted_svg/colored_text.svg" alt="A passionate student at the Faculty of Computer Science and Engineering!" />
+  A passionate student at the Faculty of Computer Science and Engineering!
 </h3>
-<h3>
-  <img src="https://path_to_your_hosted_svg/colored_text2.svg" alt="Welcome to my GitHub profile, where you can explore my journey through code and creativity!" />
+<h3 align="center">
+ Welcome to my GitHub profile, where you can explore my journey through code and creativity!
 </h3>
+
 <br/>
 <div align="center">
 
@@ -18,19 +19,31 @@
 
 
 <hr>
-<div align="center>
-- **Programming**:
-  - ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-  - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-  - ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
+<div align="center">
+    <h4>Tools</h4>
+  <img src="https://your-custom-icon-url.com/vscode.svg" alt="VSCode" width="150"/>
+  <img src="https://your-custom-icon-url.com/clion.svg" alt="CLion" width="150"/>
+  <img src="https://your-custom-icon-url.com/github.svg" alt="GitHub" width="150"/>
+  
+    
+ <h4>Programming<h4>
+ <img src="https://skillicons.dev/icons?i=javascript,c" />
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="48" height="48"/> </a> 
+    
+ <img src="https://skillicons.dev/icons?i=html,css,vscode" />
 
-- **Web Development**:
-  - ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
-  - ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
+     
+  <br>
+ <h4>Web Development<h4>
+      <img src="https://skillicons.dev/icons?i=javascript" />
 
-- **Data Analysis**:
-  - ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
- </div>
+  <img src="https://skillicons.dev/icons?i=html,css" />
+
+  <br>
+  <h4>Data Analysis<h4>
+  <img src="https://img.shields.io/badge/R-%23276DC3.svg?style=flat&logo=r&logoColor=white" alt="R" width="80"/>
+</div>
+
 <hr>
 ## 📫 Connect with Me
 
