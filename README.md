@@ -20,13 +20,8 @@
 
 <hr>
 <div align="center">
-    <h4>Tools</h4>
-  <img src="https://your-custom-icon-url.com/vscode.svg" alt="VSCode" width="150"/>
-  <img src="https://your-custom-icon-url.com/clion.svg" alt="CLion" width="150"/>
-  <img src="https://your-custom-icon-url.com/github.svg" alt="GitHub" width="150"/>
-  
     
- <h4>Programming<h4>
+ <h4>Programming and Tools<h4>
  <img src="https://skillicons.dev/icons?i=javascript,c" />
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="48" height="48"/> </a> 
     
