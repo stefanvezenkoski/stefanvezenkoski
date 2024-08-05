@@ -28,6 +28,6 @@ Hi there! I'm Stefan, a passionate student at the FCSE. Welcome to my GitHub pro
 
 - 📧 **Email**: [vezenkostefan31@gmail.com](mailto:vezenkostefan31@gmail.com)
 
-Thank you for dropping by my GitHub profile! Let's code the future together! 🚀    <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+Thank you for dropping by my GitHub profile! Let's code the future together! 🚀    <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20">
 
  
