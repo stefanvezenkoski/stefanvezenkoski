@@ -46,6 +46,10 @@
 
   <hr>
   <hr>
-Thank you for dropping by my GitHub profile! Let's code the future together! 🚀   
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=13&center=true&vCenter=true&width=500&height=70&duration=8000&lines=Thank+you+for+dropping+by+my+GitHub+profile!+Let's+code+the+future+together!+%F0%9F%9A%80" />
+
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="45"/>
+
+
 
  
