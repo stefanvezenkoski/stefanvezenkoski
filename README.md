@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  A passionate student at the Faculty of Computer Science and Engineering in Skopje! 💻
+  A passionate student at the Faculty of Computer Science and Engineering! 💻
 </h3>
 <h3 align="center">
  Welcome to my GitHub profile, where you can explore my journey through code and creativity!
