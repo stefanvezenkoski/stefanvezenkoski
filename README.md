@@ -60,6 +60,7 @@
   <img style="height: auto; width: 34%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefanvezenkoski&size_weight=0&count_weight=1&show_icons=true&locale=en&include_all_commits=true&theme=merko&langs_count=9&layout=compact&hide=cmake,shaderlab,hlsl,makefile" />
   &nbsp;
   &nbsp;
+    <br>
   <img style="height: auto; width: 55%;" class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=stefanvezenkoski&show_icons=true&locale=en&include_all_commits=true&theme=merko" />
 </div>
 
