@@ -5,7 +5,6 @@
 <h3 align="center">
  💻 A passionate student of Computer Science and Engineering!
 </h3>
-<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="1000">
 
 <h3 align="center">
  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="40">
@@ -71,7 +70,8 @@ Welcome to my GitHub profile, where you can explore my journey through code and 
 </div>
 
   <hr>
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=13&center=true&vCenter=true&width=500&height=70&duration=10000&lines=Thank+you+for+dropping+by+my+GitHub+profile!+Let's+code+the+future+together!+%F0%9F%9A%80" /><img alt="Coder GIF" height=80 width=130 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=13&center=true&vCenter=true&width=500&height=70&duration=10000&lines=Thank+you+for+dropping+by+my+GitHub+profile!+Let's+code+the+future+together!+%F0%9F%9A%80" /><img alt="Coder GIF" height=80 width=130 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" /> <img align = "right" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="300">
+
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="45"/>
 
