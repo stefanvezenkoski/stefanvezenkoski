@@ -39,6 +39,13 @@
   <h4>Data Analysis<h4>
   <img src="https://img.shields.io/badge/R-%23276DC3.svg?style=flat&logo=r&logoColor=white" alt="R" width="80"/>
 </div>
+      <br>
+<div class='container' align="center">
+  <img style="height: auto; width: 34%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefanvezenkoski&size_weight=0&count_weight=1&show_icons=true&locale=en&include_all_commits=true&theme=merko&langs_count=9&layout=compact&hide=cmake,shaderlab,hlsl,makefile" />
+  &nbsp;
+  &nbsp;
+  <img style="height: auto; width: 55%;" class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=stefanvezenkoski&show_icons=true&locale=en&include_all_commits=true&theme=merko" />
+</div>
 
 <hr>
  📫 Connect with Me
