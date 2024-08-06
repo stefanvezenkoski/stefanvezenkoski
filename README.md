@@ -6,7 +6,9 @@
  💻 A passionate student of Computer Science and Engineering!
 </h3>
 <h3 align="center">
- Welcome to my GitHub profile, where you can explore my journey through code and creativity!
+ <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="70">
+Welcome to my GitHub profile, where you can explore my journey through code and creativity!<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="70">
+  
 
 </h3>
 
@@ -36,11 +38,13 @@
      <div align="left">
  <img src="https://skillicons.dev/icons?i=javascript,c" />
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="48" height="48"/> </a> 
-      <img src="https://img.shields.io/badge/R-%23276DC3.svg?style=flat&logo=r&logoColor=white" alt="R" width="80"/>
+      <img src="https://img.shields.io/badge/R-%23276DC3.svg?style=flat&logo=r&logoColor=white" alt="R" width="80"/> 
 
  <img src="https://skillicons.dev/icons?i=html,css,vscode" />
+ <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" width="60">
+
 </div>
-<img align="right" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="400">
+<img align="right" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="400"> 
 
   <br>
        <div align="left">
