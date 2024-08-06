@@ -10,7 +10,7 @@
 </h3>
 
 <br/>
-<div align="center">
+<div>
 
  🌐 **Technologies & Languages**: C++, JavaScript, R, HTML/CSS
  
