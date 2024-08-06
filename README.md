@@ -24,7 +24,8 @@
  <h4>Programming and Tools<h4>
  <img src="https://skillicons.dev/icons?i=javascript,c" />
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="48" height="48"/> </a> 
-    
+      <img src="https://img.shields.io/badge/R-%23276DC3.svg?style=flat&logo=r&logoColor=white" alt="R" width="80"/>
+
  <img src="https://skillicons.dev/icons?i=html,css,vscode" />
 
      
