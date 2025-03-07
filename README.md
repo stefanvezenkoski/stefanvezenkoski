@@ -35,31 +35,21 @@ Welcome to my GitHub profile, where you can explore my journey through code and 
 <hr>
 <div align="center">
     
- <h4 align="left">Programming and Tools<h4>
-     <div align="left">
- <img src="https://skillicons.dev/icons?i=javascript,c" />
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="48" height="48"/> </a> 
-      <img src="https://img.shields.io/badge/R-%23276DC3.svg?style=flat&logo=r&logoColor=white" alt="R" width="80"/> 
+ <h4>Programming and Tools<h4>
+     <div align="center">
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,cpp,html,css,js,vscode,clion,idea,webstorm,blender,discord,github,r,latex&theme=dark&animation=fade" alt="My Skills">
+</a>
 
- <img src="https://skillicons.dev/icons?i=html,css,vscode" />
- <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" width="60">
+<h4>Currently studying<h4>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=cs,linux,docker,git,dotnet,visualstudio&theme=dark&animation=fade" alt="My Skills">
+</a>
+
 
 </div>
-<img align="right" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="400"> 
-
-  <br>
-       <div align="left">
-
- <h4>Web Development<h4>
-      <img src="https://skillicons.dev/icons?i=javascript" />
-
-<img src="https://skillicons.dev/icons?i=html,css" /> <h4>Data Analysis<h4>   <img src="https://img.shields.io/badge/R-%23276DC3.svg?style=flat&logo=r&logoColor=white" alt="R" width="80"/>
-
-  </div>
-
 </div>
-
-
+<hr>
   
 <div class='container' align="center">
   <img style="height: auto; width: 34%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefanvezenkoski&size_weight=0&count_weight=1&show_icons=true&locale=en&include_all_commits=true&theme=merko&langs_count=9&layout=compact&hide=cmake,shaderlab,hlsl,makefile" />
