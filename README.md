@@ -1,4 +1,4 @@
-![Black Minimal Business Personal Profile Linkedin Banner](https://github.com/user-attachments/assets/9c01494f-896d-4f5a-a99b-33f8f2f3388c)
+![Black Minimal Business Personal Profile Linkedin Banner (1)](https://github.com/user-attachments/assets/85d43fd8-cc29-4b58-8500-2ce29540d3b9)
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=print%28%22+Hello+world%22%29+%F0%9F%91%8B%3B+I'm+Stefan+Vezenkoski!" /> <img align="right" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="45">
 </h1>
