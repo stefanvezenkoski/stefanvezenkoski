@@ -1,6 +1,6 @@
 ![Black Minimal Business Personal Profile Linkedin Banner (1)](https://github.com/user-attachments/assets/85d43fd8-cc29-4b58-8500-2ce29540d3b9)
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=47B58D&duration=5000&lines=print%28%22+Hello+world%22%29+%F0%9F%91%8B%3B+I'm+Stefan+Vezenkoski!" /> <img align="right" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="45">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=5FF2BD&background=122E24&duration=5000&lines=print%28%22+Hello+world%22%29+%F0%9F%91%8B%3B+I'm+Stefan+Vezenkoski!" /> <img align="right" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="45">
 </h1>
 
 <h3 align="center">
@@ -17,9 +17,7 @@ Welcome to my GitHub profile, where you can explore my journey through code and 
 
 <br/>
 <div align = "center">
-
- 🌐 **Technologies & Languages**: C++, JavaScript, R, HTML/CSS
- 
+    
  🔍 **Goals**: To continuously grow as a programmer and innovate through exciting and challenging projects.
 <h2>Contact me <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Handshake" width="30" /></h2>
 
@@ -72,7 +70,7 @@ Welcome to my GitHub profile, where you can explore my journey through code and 
 </div>
 
   <hr>
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=13&center=true&vCenter=true&width=500&height=70&duration=10000&lines=Thank+you+for+dropping+by+my+GitHub+profile!+Let's+code+the+future+together!+%F0%9F%9A%80" /><img alt="Coder GIF" height=80 width=130 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=13&center=true&vCenter=true&width=500&height=70&color=5FF2BD&duration=10000&lines=Thank+you+for+dropping+by+my+GitHub+profile!+Let's+code+the+future+together!+%F0%9F%9A%80" /><img alt="Coder GIF" height=80 width=130 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
 
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="45"/>
