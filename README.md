@@ -50,7 +50,7 @@ Welcome to my GitHub profile, where you can explore my journey through code and 
 </div>
 </div>
 <hr>
-  aaaaaaaaaaaaaaaaaaaaaaaaaaa
+  
 <div class='container' align="center">
 <img style="height: auto; width: 34%;" class="img" 
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefanvezenkoski&size_weight=0&count_weight=1&show_icons=true&locale=en&include_all_commits=true&theme=merko&langs_count=9&layout=compact&hide=cmake,shaderlab,hlsl,makefile&border_radius=10" />
@@ -59,7 +59,7 @@ Welcome to my GitHub profile, where you can explore my journey through code and 
     <br>
   <img style="height: auto; width: 55%;" class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=stefanvezenkoski&show_icons=true&locale=en&include_all_commits=true&theme=merko" />
 </div>
-aaaaaaaaaaaaaa
+
   <hr>
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=13&center=true&vCenter=true&width=500&height=70&color=5FF2BD&duration=10000&lines=Thank+you+for+dropping+by+my+GitHub+profile!+Let's+code+the+future+together!+%F0%9F%9A%80" /><img alt="Coder GIF" height=80 width=130 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
 
